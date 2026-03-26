@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">Meu nome é Renan Pablo.<br>- 🔭 Em busca da primeira vaga<br>- 📚 Estudando ADS<br>- ⚡ No tempo livre gosto de jogos de tiro</p>
+<p align="left">Meu nome é Renan Pablo.<br>- 🔭 Em busca da primeira vaga<br>- 📚 Graduando em ADS(3/5)<br>- ⚡ No tempo livre gosto de assistir filmes/séries</p>
 
 ###
 
